@@ -1,0 +1,37 @@
+
+{
+  "building": [
+    {
+      "first room": [
+        {
+          "computers": [10, "i7-6", "16gb ram", "1tb hdd"],
+          "projector": 1,
+          "whiteboard": 1,
+          "tables": 12,
+          "chairs": 21,
+          "windows": 3
+        }
+      ],
+      "second room": [
+        {
+          "computers": [5, "i5-9", "8gb ram", "512gb ssd"],
+          "projector": 1,
+          "whiteboard": 1,
+          "tables": 6,
+          "chairs": 15,
+          "windows": 1
+        }
+      ],
+      "third room": [
+        {
+          "computers": [20, "i5-9", "16gb ram", "512gb ssd"],
+          "projector": 1,
+          "whiteboard": 2,
+          "tables": 23,
+          "chairs": 45,
+          "windows": 4
+        }
+      ]
+    }
+  ]
+}
